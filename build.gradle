@@ -52,7 +52,6 @@ project(':module-menu') {
     }
 }
 
-
 project(':module-table') {
     dependencies {
         implementation project(':module-core')
